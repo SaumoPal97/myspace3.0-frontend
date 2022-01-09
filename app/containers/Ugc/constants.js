@@ -1,0 +1,15 @@
+/*
+ *
+ * Ugc constants
+ *
+ */
+
+export const MINT_NFT_DATA = 'app/Ugc/MINT_NFT_DATA';
+export const MINT_NFT_DATA_SUCCESS = 'app/Ugc/MINT_NFT_DATA_SUCCESS';
+export const MINT_NFT_DATA_FAILURE = 'app/Ugc/MINT_NFT_DATA_FAILURE';
+export const MINT_NFT_DATA_UNINITIALIZE = 'app/Ugc/MINT_NFT_DATA_UNINITIALIZE';
+export const FETCH_NFT_DATA = 'app/Ugc/FETCH_NFT_DATA';
+export const FETCH_NFT_DATA_SUCCESS = 'app/Ugc/FETCH_NFT_DATA_SUCCESS';
+export const FETCH_NFT_DATA_FAILURE = 'app/Ugc/FETCH_NFT_DATA_FAILURE';
+export const FETCH_NFT_DATA_UNINITIALIZE =
+  'app/Ugc/FETCH_NFT_DATA_UNINITIALIZE';
